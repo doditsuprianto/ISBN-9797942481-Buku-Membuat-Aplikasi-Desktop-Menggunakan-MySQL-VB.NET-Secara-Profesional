@@ -1,0 +1,7 @@
+Buku ini membahas tentang bagaimana membuat program aplikasi database dengan MySQL dan Visual Basic.NET (Visual Studio 2005/2008, Visual Studio Express Edition 2005/2008) secara profesional. Menerapkan fitur-fitur terkini dari setiap perangkat lunak yang digunakan, terutama pengoptimalkan sisi teknologi database MySQL, misalnya: View, Store Procedure, Function, dan Transaction. 
+
+Buku ini juga membahas penggunanaan kontrol Visual Basic.NET 2005/2008 dan menerapkannya secara langsung pada kasus aplikasi database. Anda akan dituntun tahap demi tahap penulisan kode programnya hingga dapat membentuk suatu program aplikasi database yang utuh termasuk pembuatan laporan, penanganan antarmuka dengan database MySQL seperti form, menu, event, tombol, view data grid, dan lain-lain. Anda juga akan belajar mengenai seluk-beluk database MySQL mulai dari nol sampai pada tingkat lanjut. 
+
+Dalam buku ini akan dijelaskan bagaimana cara menggunakan perintah-perintah SQL, sehingga Anda akan menjadi lebih terampil dalam menggunakan perintah-perintah SQL. 
+
+Diharapkan pembaca nantinya benar-benar mampu memahami dan menerapkannya pada program aplikasi Visual Basic. NET 2005/2008, karena penguasaan database MySQL pada sisi backend akan menjadi dasar keandalan produk aplikasi bagi seluruh aplikasi yang akan dibangun.
